@@ -1,0 +1,4 @@
+moviepy
+Pillow
+torch
+openai-whisper
